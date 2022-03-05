@@ -1,4 +1,4 @@
-# xcompany-challenge2
+# xcompany-challenge
 
 ## Build Setup
 
